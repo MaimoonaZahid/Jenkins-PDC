@@ -1,7 +1,7 @@
-public class Matrix-Multiplication {
+public class MatrixMultiplication {
     public static void main(String[] args) {
 
-        int[][] A = {{1, 2}, {3, 4}};
+        int[][] A = {{1, 2}, {3, 6}};
         int[][] B = {{5, 6}, {7, 8}};
         int[][] C = new int[2][2];
 
