@@ -1,4 +1,4 @@
-public class Matrix-Multiplication {
+public class MatrixMultiplication {
     public static void main(String[] args) {
 
         int[][] A = {{1, 2}, {3, 4}};
